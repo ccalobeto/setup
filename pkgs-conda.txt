@@ -1,0 +1,12 @@
+name: py312
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - ipykernel
+  - requests
+  - scrapy
+  - spacy
+prefix: /Users/carlosalbertoleonliza/miniconda3/envs/py312

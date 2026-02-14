@@ -1,0 +1,33 @@
+{
+  "name": "lib",
+  "dependencies": {
+    "corepack": {
+      "version": "0.29.3",
+      "overridden": false
+    },
+    "degit": {
+      "version": "2.8.4",
+      "overridden": false
+    },
+    "npm-check-updates": {
+      "version": "17.1.10",
+      "overridden": false
+    },
+    "npm": {
+      "version": "11.0.0",
+      "overridden": false
+    },
+    "topojson-client": {
+      "version": "3.1.0",
+      "overridden": false
+    },
+    "ts-node": {
+      "version": "10.9.2",
+      "overridden": false
+    },
+    "typescript": {
+      "version": "5.7.2",
+      "overridden": false
+    }
+  }
+}
