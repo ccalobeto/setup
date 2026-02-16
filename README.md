@@ -6,7 +6,7 @@ If you have problems with this documentation, as a complement information ask `c
 
 - [Architecture Analyst developer Setup](#architecture-analyst-developer-setup)
 - [WSL](#wsl)
-- [Essential Developer tools](#install-essential-developer-tools) 
+- [Essential Developer tools](#essential-developer-tools) 
 - [Miniconda](#miniconda)
 - [Docker](#docker)
 - [Git](#git)
@@ -324,7 +324,7 @@ Go to command palette and select `Preferences: user settings`
 - Then import them as an VSIX file
 
 ## ClickHouse
-- Start **docker**, remember you have already installed [here](#docker).
+- Start **docker**, remember you have already installed [see again here](#docker).
 - Execute this command
 ```sh
 clickhouse-client
