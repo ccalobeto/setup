@@ -1,0 +1,7 @@
+uuid
+metadata/default.sql
+metadata/INFORMATION_SCHEMA.sql
+metadata/information_schema.sql
+metadata/system
+metadata/system.sql
+preprocessed_configs/config.xml
