@@ -295,6 +295,8 @@ During installation, enable:
 🔹 Optional (for interviews)
     - Prettier
     - ESLint
+    - Conventional Commits
+    - Jinja
 
 To open a project correctly with vscode, if you are on root directory (`~`)
 ```bash
