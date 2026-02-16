@@ -322,7 +322,7 @@ Go to command palette and select `Preferences: user settings`
 - Then import them as an VSIX file
 
 ## ClickHouse
-- Remember you have already installed [docker](#docker)
+- Start **docker**, remember you have already installed [here](#docker).
 - Execute this command
 ```sh
 clickhouse-client
